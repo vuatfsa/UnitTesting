@@ -47,8 +47,6 @@ namespace Bank
 
             balance -= amount;
         }
-
-        /*
         public void TransferFundsTo(BankAccount otherAccount, double amount)
         {
             if (otherAccount is null)
@@ -59,6 +57,5 @@ namespace Bank
             Withdraw(amount);
             otherAccount.Add(amount);
         }
-        */
     }
 }
