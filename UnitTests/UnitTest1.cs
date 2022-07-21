@@ -33,7 +33,7 @@ namespace BankNunitTests
             Assert.AreEqual(500, account.Balance);
         }
 
-        /*
+        
         [Test]
         public void Transferring_Funds_Should_Update_Both_Balances()
         {
@@ -59,6 +59,6 @@ namespace BankNunitTests
             //ACT + ASSERT
             Assert.Throws<ArgumentOutOfRangeException>(() => account.Add(-500));
         }
-        */
+     
     }
 }
