@@ -5,8 +5,6 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", "{FA0254C6-CC54-4A9C-9159-6BF8CB54F2FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankNunitTests", "BankNunitTests\BankNunitTests.csproj", "{D7C87A09-3A27-42B6-B7B9-387FCD2F59B2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{3EDDFB74-CC5F-4B6B-8CD1-BCC75166D7F8}"
 EndProject
 Global
